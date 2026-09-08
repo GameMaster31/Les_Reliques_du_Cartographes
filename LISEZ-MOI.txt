@@ -1,0 +1,25 @@
+LES RELIQUES DU CARTOGRAPHE — VERSION GITHUB PAGES
+
+Cette version est prête à être déposée directement dans un dépôt GitHub Pages.
+
+Contenu :
+- index.html : page principale du jeu
+- reliques-cartographe.jpg : image d'accueil
+- images/01.jpg à images/160.jpg : 160 photos du jeu
+
+Mise en ligne GitHub Pages :
+1. Créer un dépôt GitHub, par exemple « reliques-cartographe ».
+2. Envoyer tout le contenu de ce dossier dans le dépôt.
+3. Aller dans Settings > Pages.
+4. Choisir « Deploy from a branch ».
+5. Choisir la branche « main » et le dossier « / (root) ».
+6. Enregistrer.
+
+L'adresse sera généralement :
+https://VOTRE-NOM.github.io/reliques-cartographe/
+
+Important :
+- Ne pas déplacer le dossier images/.
+- Les sauvegardes de partie sont stockées dans le navigateur (localStorage).
+- Elles ne sont pas partagées entre joueurs ou appareils.
+- Le jeu ne nécessite aucune API photo externe.
